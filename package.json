@@ -1,0 +1,19 @@
+{
+  "name": "jss-tdd-course",
+  "version": "1.0.0",
+  "description": "js with tdd course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromuraki/jss-tdd-course.git"
+  },
+  "author": "Pedro Muraki <pedromuraki@gmail.com> (https://github.com/pedromuraki)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedromuraki/jss-tdd-course/issues"
+  },
+  "homepage": "https://github.com/pedromuraki/jss-tdd-course#readme"
+}
